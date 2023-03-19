@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week 0 Readings.md",
+                "file": "week 0/week 0 Readings.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week 0 Lab.md",
+                "file": "week 0/week 0 Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "week 0 Lab.md",
+                "file": "week 0/week 0 Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "week 0 Lab.md",
+                "file": "week 0/week 0 Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "week 0 Lab.md"
+                "file": "week 0/week 0 Lab.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "3768a6ad122fbbbc",
   "lastOpenFiles": [
-    "week0",
-    "week 0 Readings.md",
-    "week 0 Lab.md",
+    "week 0",
+    "week 0/week 0 Readings.md",
+    "week 0/week 0 Lab.md",
     "README.md"
   ]
 }
