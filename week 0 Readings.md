@@ -61,3 +61,6 @@ We believe that following this advice will not only help you do well in 6.101, b
     
 -   **Ask for Help When You Need It**. Of course, it's very likely that there will be times when you will encounter problems that you aren't able to tackle on your own. Spinning your wheels for too long while being stuck is not a very efficient way to learn, either. When this happens, it's a good idea to [ask for help](../info/help.html). For debugging questions, in-person help is best.
 
+### Thanks
+
+1111
